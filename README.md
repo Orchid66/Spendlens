@@ -16,7 +16,7 @@ SpendLens is a free web tool that audits a startup's AI tool spend in under 2 mi
 ### Install & run locally
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/spendlens.git
+git clone https://github.com/Orchid66/Spendlens
 cd spendlens
 
 npm install
